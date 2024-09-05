@@ -2,11 +2,11 @@
 
 ## Perfil
 
-- Sou o Gabriel Lourenço de Paula Graton, aluno do curso de Bacharelado em Ciência da Computação na Universidade Federal de São Carlos (UFSCar), uma das melhores instituições de ensino superior do Brasil. Estou no último ano do curso e tenho previsão de formatura em abril de 2024.
+<p> Sou o Gabriel Lourenço de Paula Graton, aluno do curso de Bacharelado em Ciência da Computação na Universidade Federal de São Carlos (UFSCar), uma das melhores instituições de ensino superior do Brasil. Estou no último ano do curso e tenho previsão de formatura em abril de 2024. </p>
 
-- Durante a minha graduação, desenvolvi diversas habilidades em programação, análise de dados, algoritmos, estruturas de dados, e inteligência artificial, aplicando-as em projetos acadêmicos e extracurriculares. Também participei de competições de programação e hackathons, onde pude colaborar com outros estudantes e profissionais, e aprender novas ferramentas e tecnologias. Além disso, realizei um intercâmbio de férias em Cambridge, onde ampliei os meus conhecimentos em computação e aprimorei o meu inglês.
+<p> Durante a minha graduação, desenvolvi diversas habilidades em programação, análise de dados, algoritmos, estruturas de dados, e inteligência artificial, aplicando-as em projetos acadêmicos e extracurriculares. Também participei de competições de programação e hackathons, onde pude colaborar com outros estudantes e profissionais, e aprender novas ferramentas e tecnologias. Além disso, realizei um intercâmbio de férias em Cambridge, onde ampliei os meus conhecimentos em computação e aprimorei o meu inglês. </p>
 
-- O meu objetivo é seguir uma carreira na área de inteligência artificial, contribuindo para o desenvolvimento de soluções inovadoras e impactantes para a sociedade. Sou apaixonado por aprender novas coisas, resolver problemas complexos, e trabalhar em equipe. Busco oportunidades de estágio que me permitam colocar em prática as minhas habilidades, adquirir novas experiências, e crescer profissionalmente.
+<p> O meu objetivo é seguir uma carreira na área de inteligência artificial, contribuindo para o desenvolvimento de soluções inovadoras e impactantes para a sociedade. Sou apaixonado por aprender novas coisas, resolver problemas complexos, e trabalhar em equipe. Busco oportunidades de estágio que me permitam colocar em prática as minhas habilidades, adquirir novas experiências, e crescer profissionalmente. </p>
 
 
 ## Projetos
@@ -27,6 +27,6 @@
 
 ## Contato
 
-- 📫 gabriel.graton@estudante.ufscar.br
-- <a href="https://www.linkedin.com/in/ggraton" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<p> 📫 gabriel.graton@estudante.ufscar.br <p>
+<a href="https://www.linkedin.com/in/ggraton" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
