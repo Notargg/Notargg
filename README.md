@@ -2,11 +2,11 @@
 
 ## About Me
 
-<p> I am a student pursuing a Bachelor's degree in Computer Science at the Federal University of São Carlos (UFSCar) 🇧🇷, one of the top higher education institutions in Brazil. I am in the final year of my program, with an expected graduation date in December 2025.  </p>
+<p> I am a Bachelor's candidate in Computer Science at the Federal University of São Carlos (UFSCar) 🇧🇷, recognized as one of Brazil's premier institutions of higher education. Currently in my final year, I anticipate graduating in December 2025.  </p>
 
-<p> Throughout my degree, I have developed strong skills in programming, data analysis, algorithms, data structures, and artificial intelligence, applying them in both academic and extracurricular projects. I have also participated in programming competitions and hackathons, where I had the opportunity to collaborate with other students and professionals and learn new tools and technologies. Additionally, I completed a summer exchange program in Cambridge, where I expanded my knowledge of computing and improved my English. </p>
+<p> Throughout my academic journey, I have cultivated robust skills in programming, data analysis, algorithms, data structures, and artificial intelligence, applying these competencies in various academic and extracurricular projects. My participation in programming competitions and hackathons has provided me with invaluable opportunities to collaborate with peers and professionals, allowing me to explore new tools and technologies. Furthermore, I enhanced my knowledge of computing and refined my English through a summer exchange program in Cambridge.  </p>
 
-<p>  My goal is to pursue a career in artificial intelligence and data science, contributing to the development of innovative and impactful solutions for society. I am passionate about learning new things, solving complex problems, and working in teams. I am seeking internship opportunities that will allow me to apply my skills, gain new experiences, and grow professionally. </p>
+<p> I aspire to forge a career in artificial intelligence and data science, dedicated to creating innovative and impactful solutions for society. My passion lies in continuous learning, tackling complex challenges, and collaborating within teams. I am currently seeking internship opportunities that will enable me to leverage my skills, gain new experiences, and advance my professional growth. </p>
 
 
 ## Projects
