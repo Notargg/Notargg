@@ -39,6 +39,8 @@
 
 - 🔭 JABREF: <a href="https://github.com/Portix-S/DC-UFSCar-ES2-202301-Grupo-CGRVV-" target="_blank"> ENGSOFT  2</a> - This repository is for the final assignment of ES2, where we had to enhance an open-source software - JabRef - with some of its functionalities. - Java
 
+- CERTIFICATES: <a href="https://github.com/Notargg/Certificates" target="_blank"> CERTIFICATES </a> - This repository contains all of my certificates 
+
 ## Contacts
 
 <p> 📫 gabriel.graton@estudante.ufscar.br <p>
